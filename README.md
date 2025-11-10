@@ -1,0 +1,3 @@
+Projeto Recomendações de Livros da empresa Techbook
+
+O projeto consiste em criar um sistema que recomende livros com base em livros que você já leu ou que desejaria ler, com um funcionamento de indicações com: autores semelhantes, livros semelhantes, generos e etc. Além disso o sistema irá funcionar como um blog de reviews de livros, onde os melhores livros serão mais recomendados - parecido com sites de filmes.
